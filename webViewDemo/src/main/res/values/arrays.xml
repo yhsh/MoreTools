@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data">
+        <item>自带浏览器打开</item>
+        <item>内置打开</item>
+        <item>标题进度条网页</item>
+        <item>爱情公寓</item>
+        <item>萝卜白菜</item>
+        <item>私家侦探</item>
+        <item>中华小当家</item>
+    </string-array>
+</resources>
